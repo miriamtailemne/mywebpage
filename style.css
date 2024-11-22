@@ -50,6 +50,10 @@ nav {
     gap: 16px;
 }
 
+.line {
+    border-left: 3px solid black;
+    height: 200px;
+}
 
 
 /* Keyframes */
